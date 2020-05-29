@@ -1,5 +1,11 @@
 # gt-accessibility-html
 
+Refactored HTML & CSS
+https://theendisfar.github.io/gt-accessibility-html/
+
+Original HTML
+https://theendisfar.github.io/gt-accessibility-html/index_old.html
+
 # 1. Code Refactor
 Week One
 GT Coding Bootcamp
