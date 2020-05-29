@@ -16,13 +16,13 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 ## Table of Contents
 
-* [User Story](#user)
-* [Acceptance Criteria](#acceptance) 
-* [Changes Made](#changes)
+* [User_Story](#user_story)
+* [Acceptance_Criteria](#acceptance_criteria) 
+* [Changes_Made](#changes_made)
 * [Credits](#credits)
 * [License](#license)
 
-## User Story
+## User_Story
 
 ```
 AS A marketing agency
@@ -30,7 +30,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-## Acceptance Criteria
+## Acceptance_Criteria
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -46,7 +46,7 @@ WHEN I view the title element
   THEN I find a concise, descriptive title = Yes
 ```
 
-## Changes Made
+## Changes_Made
 
 * HTML
 Changed <title> to have company name and keywords-->
@@ -65,6 +65,7 @@ Consolidated company offering classes into 'offering' */
 Consolidated benefit-_____ classes */
 
 ## Credits
+
 Good-README-Guide
 [lipsum dot com](https://www.lipsum.com/)
 
