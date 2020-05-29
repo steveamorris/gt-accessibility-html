@@ -65,6 +65,7 @@ Consolidated company offering classes into 'offering' */
 Consolidated benefit-_____ classes */
 
 ## Credits
+
 Good-README-Guide
 [lipsum dot com](https://www.lipsum.com/)
 
